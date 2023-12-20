@@ -1,0 +1,9 @@
+.beach-items .beach-item {
+    list-style-position: inside;
+    margin: 5px;
+    padding: 5px 15px;
+    border-radius: 10px;
+    background: rgb(192, 191, 191);
+  
+  }
+  
